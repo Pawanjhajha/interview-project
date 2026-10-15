@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+dist/
+CLAUDE.md
+client/node_modules/
+server/node_modules/
